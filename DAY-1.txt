@@ -1,0 +1,29 @@
+1.Difference between HTTP1 And HTTP2?
+    
+	HTTP-> Hyper Text Transfer Protocal
+	HTTP1 is used to communicate data from client side to server side. Initially very less data transfered.
+	Http2 is advanced. It can transfer large number of data at a time.
+
+2.Write a blog about objects and its internal representation in Javascript?
+	
+	Objects are used to handle the large number of data
+	they are reference type
+	objects stores data in key:value pair 
+	objects dont have index
+	
+	const person={
+			name:"vijay",
+			age:20;
+			}
+	console.log(person.name) --->vijay
+3.Read about IP address, port, HTTP methods, MAC address?
+	
+	MAC Address-> it is unique address for your machine.
+	IP Address-> its your network address . it can show your location and show your network located.
+	Port -> one system can handle more than one application. this port address used to identify the serice you want.
+	HTTP Methods:
+			GET->Read
+			POST->create
+			PUT->update
+			DELETE->delete
+	
